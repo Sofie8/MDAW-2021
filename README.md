@@ -10,7 +10,7 @@ Click [here](https://sofie8.github.io/Stiemerlab/README_MDAW.html#short-instruct
 
 ## 4. Install instructions for Hands-on session # 4: Visualisation of multi-omics data
 
-# 5. Install instructions for Hands-on # 5: Network inference and analysis
+## 5. Install instructions for Hands-on # 5: Network inference and analysis
 Click [here](https://ramellose.github.io/networktutorials/overview_workshop.html)
 
 ## 6. Install instructions for Hands-on # 6: Metagenome-wide association studies (MWAS) and random forest
