@@ -4,5 +4,4 @@
   
   From April 12 we make the conference platform in Gather-town accessible, where you can contact us if you need help with installation!
   
-  Best,
   Sofie
